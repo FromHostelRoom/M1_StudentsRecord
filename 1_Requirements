@@ -2,14 +2,12 @@
   These are the features of my project:                                        * Add student record
                                                                                * Search student record
                                                                                * Modify student record
-                                                                               * Generate marksheet 
                                                                                * Delete student record
                                                                                * Change password
                                                                              
 * Add Student Record :- Through this feature, Admin can add students detail in the Record Management System. New Students are added to the Management System.
 * Search Student Record :- Once the record of a student is saved in the database of this management system, Admin can get access of his/her details.
 * Modify Student Record :- In this feature, Admin can modify the saved data of a student. User can change details like name , address , father name etc.
-* Generate Marksheet :- In this feature, Admin can generate students marksheet.
 * Delete Student Record :- Admin can delete the details of a student from the database.
 * Change Password :- Admin can change his/her password.
 
@@ -21,7 +19,6 @@
         * conf_record() :- used to check whether students record available or not.
         * add_student() :- used to add student details.
         * search_student() :- used to search students.
-        * mod_student() :- used to modify students
-        * gen_marksheet() :- used to generate marksheet.
+        * mod_student() :- used to modify students.
         * delete_student() :- used to delete student record.
         * main_window() :- used to provide interface to the project.
