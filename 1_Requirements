@@ -42,4 +42,37 @@
 SWOT analysis is a simple yet effective process for identifying positive and negative forces at work that can affect the successful completion of a project. 
 SWOT stands for Strengths, Weaknesses, Opportunities and Threats. It allows the project leader to assess areas that are working well and areas that need improvement. 
 If project management is managing a movement from one state to another, then a SWOT analysis lets a team know where they are currently so they can go where they want to be.
-         *STRENGTHS:-
+         
+         *STRENGTHS:- 
+         This project is designed to solve the problems faced during manual entry of students' information.
+         The  major  benefit  of  the  system  is  that  it  helps  the  staff  to  accomplish  their  daily  functions  more efficiently, and Limit the use of papers.
+         Quick access to the required information as it is only, one click away. It solves the problem of time consuming, since data is centralized. 
+         It  also  enhances  security  as  access  to  the  system  requires  authentication.
+         The Admin can login into the system and execute any of the available tasks; 
+         1. Can edit student information in the database; 
+         2. Can make search for a specific student; 
+         3. Can access all the details of the student. 
+         4. Can view his/her personal details. 
+         5. Can upload student’s data.
+         6. Generate students transcripts 
+         
+         *WEAKNESS:-
+         Some of the common Weaknesses are-
+         1.This  means  that  only authorized users can access that system.
+         2.The system is not web based therefore the user should create a backup somewhere else for security purpose.
+         3.The institution administration finds it tiresome and time consuming when entering students details for every department.
+         
+         *OPPORTUNITY:-
+         In this digital era of technology this project is having a greater opportunity to sustain in market as a project.
+         These days there are many schools and colleges following the old fashion of maintainging registers for students details. By using this model
+         we can eleminate the traditional method of recording students details.
+         In coming days, there are huge opportunity of this when schools and colleges will transform digitally.
+         
+         *THREATS:-
+         1.Vulnerable as anti virus system not installed.
+         2.The system is not web based therefore the user should create a backup somewhere else for security purpose.
+         
+         
+         
+##Technology Used:-
+Technologies Used visual studio code  and  c programming  language  are  used  to  create  the  interface  which allows the front end user to interact freely with the system.
