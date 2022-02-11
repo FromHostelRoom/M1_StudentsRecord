@@ -1,5 +1,8 @@
 # M1_StudentsRecord
 This is a mini project on handling Students Record. It's a beautifully designed Student Management System in which details of students are recorded.
+# Markdown
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
 # Linux OS 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
