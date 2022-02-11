@@ -6,3 +6,6 @@ https://api.codiga.io/project/30952/score/svg
 
 # Code Quality Badge
 https://api.codiga.io/project/30952/status/svg
+
+# Reuse Licencing Badge 
+https://img.shields.io/reuse/compliance/github.com/fsfe/reuse-tool
