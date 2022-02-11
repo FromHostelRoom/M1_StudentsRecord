@@ -4,6 +4,9 @@ This is a mini project on handling Students Record. It's a beautifully designed 
 # C programming 
 ![Code grade](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=C&logoColor=white)
 
+# Build
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dwyl/auth_plug/Elixir%20CI?label=build&style=flat-square)
+
 # Docs 
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
