@@ -1,5 +1,7 @@
 # M1_StudentsRecord
 This is a mini project on handling Students Record. It's a beautifully designed Student Management System in which details of students are recorded.
+# Docs 
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 # Visual studio code[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
 # Markdown
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
