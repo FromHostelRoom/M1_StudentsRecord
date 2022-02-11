@@ -2,7 +2,7 @@
 This is a mini project on handling Students Record. It's a beautifully designed Student Management System in which details of students are recorded.
 
 # C programming 
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+![Code grade](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=C&logoColor=white)
 
 # Docs 
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
