@@ -1,5 +1,7 @@
 # M1_StudentsRecord
 This is a mini project on handling Students Record. It's a beautifully designed Student Management System in which details of students are recorded.
+# Linux OS 
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
 # Window OS [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
