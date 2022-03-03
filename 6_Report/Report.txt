@@ -4,7 +4,6 @@ Here, a console window is virtually divided into 2 parts – one is static and i
 
 The source code for this mini project is error-free, but not complete. There are many places for improvements and enhancements within the project. This C mini project on student record management system is compiled in Code::Blocks IDE using GCC compiler.
 
-So, compiling the source codes in other platforms or compiler such as Turbo C will produce errors. The C code is around 400 lines, so I haven’t displayed it here.
 
 Features of Student Record System in C:
 Simple functions have been to manipulate data structure and file handling, so here I will just list the features of this project.
@@ -28,3 +27,8 @@ void gotoxy (int x, int y)
         coord.X = x; coord.Y = y; // X and Y are the coordinates
         SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
 }
+
+Output Screens:
+image.png
+
+
