@@ -8,6 +8,7 @@ This is a mini project on handling Students Record. It's a beautifully designed 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dwyl/auth_plug/Elixir%20CI?label=build&style=flat-square)
 
 # Docs 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b07ed3dceee241b69f3e3f67bdbbfad7)](https://app.codacy.com/gh/FromHostelRoom/M1_StudentsRecord?utm_source=github.com&utm_medium=referral&utm_content=FromHostelRoom/M1_StudentsRecord&utm_campaign=Badge_Grade_Settings)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
 # Code Quality Score
