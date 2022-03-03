@@ -16,6 +16,9 @@ This is a mini project on handling Students Record. It's a beautifully designed 
 # Code Quality Badge
 ![Code grade](https://api.codiga.io/project/30952/status/svg)
 
+# Code Grade
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e4b6a45046c14119b83e85a78028a511)](https://www.codacy.com/gh/FromHostelRoom/M1_StudentsRecord/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=FromHostelRoom/M1_StudentsRecord&amp;utm_campaign=Badge_Grade)
+
 # Reuse Licencing Badge 
 ![Code grade](https://img.shields.io/reuse/compliance/github.com/fsfe/reuse-tool)
 
