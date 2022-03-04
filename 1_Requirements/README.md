@@ -26,6 +26,18 @@
         * mod_student() :- used to modify students.
         * delete_student() :- used to delete student record.
         * main_window() :- used to provide interface to the project.
+        
+## 4W's and 1'H
+## Who:
+Student Record System is used by the Education Industries to store the data of the students. This system is used for any kind of industry whether it be small scale or large scale.
+## What:
+It is helpful for the organisation in order to save the complete data of each student.
+## When:
+The Student Record System is now used in every industry to have all the info of the student stored into file/database. This way all the list of student working in a particular iorganization can be stored in one place
+## Where:
+Face the issues in saving the data of student in school and colleges etc.
+## How:
+This issue can be solved by creating a database of students and saving the information in a file.
 
 ## SYSTEM REQUIREMENT:
 
@@ -79,7 +91,15 @@ If project management is managing a movement from one state to another, then a S
          2.The system is not web based therefore the user should create a backup somewhere else for security purpose.
          
          
-         
+## Best Methods To Be Followed
+
+* Used functions to decrease dependency on main function
+* Used structures and arrays to accept the inputs from user and store the values which helped in creating easy design of Student Record system.
+* Printf statements have been placed only wherever necessary to avoid confusions
+* Created header file so that the fuctions can be used else where ever required without any difficulty
+* Unit testing is done to avoid any computational errors.  
+
+    
 ## Technology Used:-
 
 Technologies Used visual studio code  and  c programming  language  are  used  to  create  the  interface  which allows the front end user to interact freely with the system.
