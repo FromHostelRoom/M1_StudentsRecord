@@ -1,6 +1,7 @@
 
    
- #High Level Requirements of this Mini Project 
+ ## High Level Requirements of this Mini Project 
+ 
   These are the features of my project:                                        * Add student record
                                                                                * Search student record
                                                                                * Modify student record
@@ -13,7 +14,8 @@
 * Delete Student Record :- Admin can delete the details of a student from the database.
 * Change Password :- Admin can change his/her password.
 
-#Low Level Requirements of this Project
+## Low Level Requirements of this Project
+
   All the high level requirements are implemented using functions.
         * get_password() :- used to get Password for the Admin.
         * use_pass_field() :- used for Password validtion of an Admin.
@@ -25,7 +27,8 @@
         * delete_student() :- used to delete student record.
         * main_window() :- used to provide interface to the project.
 
-##SYSTEM REQUIREMENT:
+## SYSTEM REQUIREMENT:
+
                      This section describes the hardware components and software requirements of this mini project:-
                      
                      #Hardware Requirements:
@@ -40,7 +43,8 @@
 
 
 
-##SWOT Analysis:
+## SWOT Analysis:
+
 SWOT analysis is a simple yet effective process for identifying positive and negative forces at work that can affect the successful completion of a project. 
 SWOT stands for Strengths, Weaknesses, Opportunities and Threats. It allows the project leader to assess areas that are working well and areas that need improvement. 
 If project management is managing a movement from one state to another, then a SWOT analysis lets a team know where they are currently so they can go where they want to be.
@@ -76,5 +80,6 @@ If project management is managing a movement from one state to another, then a S
          
          
          
-##Technology Used:-
+## Technology Used:-
+
 Technologies Used visual studio code  and  c programming  language  are  used  to  create  the  interface  which allows the front end user to interact freely with the system.
