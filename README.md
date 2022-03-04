@@ -39,3 +39,6 @@ This is a mini project on handling Students Record. It's a beautifully designed 
 
 # Build Linux
 [![Build Linux](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/Build.yml/badge.svg)](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/Build.yml)
+
+## Unit Testing
+[![Unit Testing](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/Unit.yml/badge.svg)](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/Unit.yml)
