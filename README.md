@@ -45,3 +45,11 @@ This is a mini project on handling Students Record. It's a beautifully designed 
 
 ## CPP-Check
 [![CPP-check](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/CPP.yml/badge.svg)](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/CPP.yml)
+
+# References:
+
+I would like to thank all the resources available on the internet regarding my project. I am mentioning few references below:-
+1. GitHub Learning
+2. CodewithC
+3. Geeksforgeeks
+4. Wikipedia
