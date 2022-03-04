@@ -37,3 +37,5 @@ This is a mini project on handling Students Record. It's a beautifully designed 
 # CI
 [![CI](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/main.yml/badge.svg)](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/main.yml)
 
+# Build Linux
+[![Build Linux](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/Build.yml/badge.svg)](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/Build.yml)
