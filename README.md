@@ -34,3 +34,6 @@ This is a mini project on handling Students Record. It's a beautifully designed 
 # Window OS
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
+# CI
+[![CI](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/main.yml/badge.svg)](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/main.yml)
+
