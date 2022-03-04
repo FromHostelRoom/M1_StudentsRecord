@@ -42,3 +42,6 @@ This is a mini project on handling Students Record. It's a beautifully designed 
 
 ## Unit Testing
 [![Unit Testing](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/Unit.yml/badge.svg)](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/Unit.yml)
+
+## CPP-Check
+[![CPP-check](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/CPP.yml/badge.svg)](https://github.com/FromHostelRoom/M1_StudentsRecord/actions/workflows/CPP.yml)
