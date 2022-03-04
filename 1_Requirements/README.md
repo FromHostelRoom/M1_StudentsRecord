@@ -1,5 +1,18 @@
+## INTRODUCTION:
+Student records are often viewed as paperwork produced for the education bureaucracy. However, a well-designed student record system, whether using paper documents or automated systems, yields many benefits. The most important of these is the ability to report information for decision making about individual students, schools, programs, and school districts. A second benefit, particularly with automated systems, is efficiency in processing and exchanging student records among schools. When student records are added to an overall management information system that includes information on staff, materials, and budgeting for the school or school district, more management activities can be accomplished and efficiency will be improved. Student record systems, thus, play a key role in the overall functioning of the education system; but more importantly, they increase a school's ability to meet the needs of students.
 
-   
+Separate student records become a student record system when they are linked together or made accessible to perform one or more critical functions. These functions may include generating reports, adding/deleting/changing records, and conducting analyses. Like individual student records, student record systems may be housed in several ways: as paper files in filing cabinets, on microfilm, in computer files, or in a combination of methods. To improve the efficiency and usefulness of data, many schools, school districts, and state education agencies have entered their student records into automated databases. Automated systems using available computer technology offer tremendous advantages over traditional paper systems. However, most computerized systems still rely on paper records at various stages within the system.
+
+Numerous companies offer software products designed to store and provide access to student information. Often these products include administrative applications that handle course scheduling, transportation planning, and other useful activities. Sometimes there are instructional applications that work in conjunction with administrative applications to record and analyze student progress. Many of these software companies have developed their student record system products with the assistance of local educators from various different school districts. Other student record systems have been developed by district staff or consultants for a specific school, district, or state education agency (often called proprietary systems using custom software). Each institution or agency seeking to maintain individual student records must determine the best system design and software solution for its organization. An important consideration is the maintenance of the system as changes or improvements are needed, as well as what it will take to keep the system working on a daily basis. The information that follows can help your organization identify and implement the most appropriate automated system.
+
+## Objectives Of Project:-
+
+* This project aims to simplify the task of maintaining records of the students.
+* To develop an well-designed database to store student information.
+* Provides full functional reports to management of schools and colleges.
+* The objective of this project is to provide a comprehensive approach towards the management of student information.   
+
+
  ## High Level Requirements of this Mini Project 
  
   These are the features of my project:                                        * Add student record
